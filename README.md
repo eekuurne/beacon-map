@@ -1,1 +1,1 @@
-# beacon-map
+# hackathon2017-beacon-map
